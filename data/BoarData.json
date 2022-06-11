@@ -1,0 +1,3912 @@
+﻿{
+    "Farm1-BoarTaint": [
+        {
+            "number": "1",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal",
+            "video": "\\root\\video\\farm1\\f1boataint1.avi",
+            "image": "\\root\\image\\farm1\\f1boataint1-3200.jpg",
+            "imagetime": "3200"
+        },
+        {
+            "number": "2",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal",
+            "video": "\\root\\video\\farm1\\f1boataint2.avi",
+            "image": "\\root\\image\\farm1\\f1boataint2-6752.jpg",
+            "imagetime": "6752"
+        },
+        {
+            "number": "3",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "4",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "5",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "6",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "7",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "8",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "9",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "10",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "11",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "12",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "13",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "14",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "15",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "16",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "17",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "18",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "19",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "20",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "21",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "22",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "23",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "24",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "25",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "26",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "27",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "28",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "29",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "30",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "31",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "32",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "33",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "34",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "35",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "36",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "37",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "38",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "39",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "40",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "41",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "42",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "43",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "44",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "45",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "46",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "47",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "48",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "49",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "50",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        }
+    ],
+    "Farm1-PorkCarcass": [
+        {
+            "number": "1",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "11",
+            "bf4": "30",
+            "b": "85",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "28",
+            "grade": "B",
+            "video1": "\\root\\video\\farm1\\f1porkup1.avi",
+            "video2": "\\root\\video\\farm1\\f1porkdown1.avi",
+            "image1": "\\root\\image\\farm1\\f1porkup1-2341.jpg",
+            "image2": "\\root\\image\\farm1\\f1porkdown1-2015.jpg",
+            "imagetime1": "2341",
+            "imagetime2": "2015"
+        },
+        {
+            "number": "2",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "12",
+            "bf4": "29",
+            "b": "87",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C",
+            "video1": "\\root\\video\\farm1\\f1porkup2.avi",
+            "video2": "\\root\\video\\farm1\\f1porkdown2.avi",
+            "image1": "\\root\\image\\farm1\\f1prokup2-5512.jpg",
+            "image2": "\\root\\image\\farm1\\f1prokdown2-5001.jpg",
+            "imagetime1": "5512",
+            "imagetime2": "5001"
+        },
+        {
+            "number": "3",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "6",
+            "bf4": "26",
+            "b": "80",
+            "lqs": "0.20",
+            "lqsgrade": "A",
+            "b2": "32",
+            "grade": "C"
+        },
+        {
+            "number": "4",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "25",
+            "b": "78",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "23",
+            "grade": "A"
+        },
+        {
+            "number": "5",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "8",
+            "bf4": "25",
+            "b": "80",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "6",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "12",
+            "bf4": "25",
+            "b": "80",
+            "lqs": "0.23",
+            "lqsgrade": "B",
+            "b2": "28",
+            "grade": "C"
+        },
+        {
+            "number": "7",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "10",
+            "bf4": "34",
+            "b": "85",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "26",
+            "grade": "B"
+        },
+        {
+            "number": "8",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "9",
+            "bf4": "24",
+            "b": "81",
+            "lqs": "0.20",
+            "lqsgrade": "B",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "9",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "17",
+            "bf4": "33",
+            "b": "100",
+            "lqs": "0.25",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "10",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "14",
+            "bf4": "25",
+            "b": "75",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "11",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "11",
+            "bf4": "30",
+            "b": "84",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "12",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "14",
+            "bf4": "33",
+            "b": "85",
+            "lqs": "0.28",
+            "lqsgrade": "C",
+            "b2": "22",
+            "grade": "A"
+        },
+        {
+            "number": "13",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "3",
+            "bf4": "18",
+            "b": "90",
+            "lqs": "0.12",
+            "lqsgrade": "A",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "14",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "8",
+            "bf4": "17",
+            "b": "80",
+            "lqs": "0.16",
+            "lqsgrade": "A",
+            "b2": "23",
+            "grade": "A"
+        },
+        {
+            "number": "15",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "8",
+            "bf4": "25",
+            "b": "72",
+            "lqs": "0.23",
+            "lqsgrade": "B",
+            "b2": "22",
+            "grade": "A"
+        },
+        {
+            "number": "16",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "18",
+            "bf4": "25",
+            "b": "87",
+            "lqs": "0.25",
+            "lqsgrade": "B",
+            "b2": "27",
+            "grade": "B"
+        },
+        {
+            "number": "17",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "21",
+            "bf4": "39",
+            "b": "95",
+            "lqs": "0.32",
+            "lqsgrade": "C",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "18",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "18",
+            "bf4": "34",
+            "b": "85",
+            "lqs": "0.31",
+            "lqsgrade": "C",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "19",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "7",
+            "bf4": "24",
+            "b": "90",
+            "lqs": "0.17",
+            "lqsgrade": "A",
+            "b2": "33",
+            "grade": "C"
+        },
+        {
+            "number": "20",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "34",
+            "b": "80",
+            "lqs": "0.31",
+            "lqsgrade": "C",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "21",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "5",
+            "bf4": "19",
+            "b": "78",
+            "lqs": "0.15",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "B"
+        },
+        {
+            "number": "22",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "7",
+            "bf4": "18",
+            "b": "70",
+            "lqs": "0.18",
+            "lqsgrade": "A",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "23",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "5",
+            "bf4": "17",
+            "b": "86",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "23",
+            "grade": "A"
+        },
+        {
+            "number": "24",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "5",
+            "bf4": "15",
+            "b": "87",
+            "lqs": "0.11",
+            "lqsgrade": "A",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "25",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "9",
+            "bf4": "23",
+            "b": "89",
+            "lqs": "0.18",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "26",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "10",
+            "bf4": "30",
+            "b": "85",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "27",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "10",
+            "bf4": "23",
+            "b": "83",
+            "lqs": "0.20",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "28",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "85",
+            "lqs": "0.26",
+            "lqsgrade": "C",
+            "b2": "33",
+            "grade": "C"
+        },
+        {
+            "number": "29",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "13",
+            "bf4": "19",
+            "b": "78",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "30",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "29",
+            "b": "90",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "31",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "13",
+            "bf4": "28",
+            "b": "80",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "32",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "9",
+            "bf4": "23",
+            "b": "78",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "27",
+            "grade": "B"
+        },
+        {
+            "number": "33",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "1",
+            "bf4": "10",
+            "b": "78",
+            "lqs": "0.07",
+            "lqsgrade": "A",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "34",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "5",
+            "bf4": "25",
+            "b": "72",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "35",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "75",
+            "lqs": "0.30",
+            "lqsgrade": "C",
+            "b2": "15",
+            "grade": "AA"
+        },
+        {
+            "number": "36",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "3",
+            "bf4": "15",
+            "b": "72",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "37",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "75",
+            "lqs": "0.30",
+            "lqsgrade": "C",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "38",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "3",
+            "bf4": "15",
+            "b": "72",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "39",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "10",
+            "bf4": "25",
+            "b": "78",
+            "lqs": "0.22",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "40",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "32",
+            "b": "87",
+            "lqs": "0.27",
+            "lqsgrade": "C",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "41",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "15",
+            "bf4": "27",
+            "b": "78",
+            "lqs": "0.27",
+            "lqsgrade": "C",
+            "b2": "26",
+            "grade": "B"
+        },
+        {
+            "number": "42",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "10",
+            "bf4": "23",
+            "b": "75",
+            "lqs": "0.22",
+            "lqsgrade": "B",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "43",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "8",
+            "bf4": "21",
+            "b": "89",
+            "lqs": "0.16",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "44",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "9",
+            "bf4": "22",
+            "b": "90",
+            "lqs": "0.17",
+            "lqsgrade": "A",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "45",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "10",
+            "bf4": "23",
+            "b": "90",
+            "lqs": "0.18",
+            "lqsgrade": "A",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "46",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "3",
+            "bf4": "18",
+            "b": "80",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "47",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "5",
+            "bf4": "10",
+            "b": "75",
+            "lqs": "0.10",
+            "lqsgrade": "A",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "48",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "12",
+            "bf4": "30",
+            "b": "80",
+            "lqs": "0.26",
+            "lqsgrade": "C",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "49",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "13",
+            "bf4": "25",
+            "b": "80",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "50",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "bf3": "10",
+            "bf4": "20",
+            "b": "81",
+            "lqs": "0.19",
+            "lqsgrade": "A",
+            "b2": "20",
+            "grade": "AA"
+        }
+    ],
+    "Farm1-BellyCarCass": [
+        {
+            "number": "1",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A",
+            "video": "\\root\\video\\farm1\\f1belly1.avi",
+            "image": "\\root\\image\\farm1\\f1belly1-2200.jpg",
+            "imagetime": "2200"
+        },
+        {
+            "number": "2",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A",
+            "video": "\\root\\video\\farm1\\f1belly2.avi",
+            "image": "\\root\\image\\farm1\\f1belly2-4752.jpg",
+            "imagetime": "4752"
+        },
+        {
+            "number": "3",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "4",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "5",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "6",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "7",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "8",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "9",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "10",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "11",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "12",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "13",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "14",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "15",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "16",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "17",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "18",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "19",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "20",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "21",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "22",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "23",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "24",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "25",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "43%",
+            "fat": "50%",
+            "grade": "B"
+        },
+        {
+            "number": "26",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "43%",
+            "fat": "50%",
+            "grade": "B"
+        },
+        {
+            "number": "27",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "41%",
+            "fat": "49%",
+            "grade": "C"
+        },
+        {
+            "number": "28",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "41%",
+            "fat": "49%",
+            "grade": "C"
+        },
+        {
+            "number": "29",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "47%",
+            "fat": "48%",
+            "grade": "B"
+        },
+        {
+            "number": "30",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "47%",
+            "fat": "48%",
+            "grade": "B"
+        },
+        {
+            "number": "31",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "55%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "32",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "55%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "33",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "56%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "34",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "56%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "35",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "36",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "37",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "50%",
+            "fat": "38%",
+            "grade": "A"
+        },
+        {
+            "number": "38",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "50%",
+            "fat": "38%",
+            "grade": "A"
+        },
+        {
+            "number": "39",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "40",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "41",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "52%",
+            "fat": "51%",
+            "grade": "A"
+        },
+        {
+            "number": "42",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "52%",
+            "fat": "51%",
+            "grade": "A"
+        },
+        {
+            "number": "43",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "44",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "45",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "46",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "47",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "48",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "49",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "45%",
+            "grade": "AA"
+        },
+        {
+            "number": "50",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "45%",
+            "grade": "AA"
+        },
+        {
+            "number": "51",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "52",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "53",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "49%",
+            "grade": "B"
+        },
+        {
+            "number": "54",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "49%",
+            "grade": "B"
+        },
+        {
+            "number": "55",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "56",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "57",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "58",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "59",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "60",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "61",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "46%",
+            "grade": "AA"
+        },
+        {
+            "number": "62",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "46%",
+            "grade": "AA"
+        },
+        {
+            "number": "63",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "41%",
+            "grade": "AA"
+        },
+        {
+            "number": "64",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "41%",
+            "grade": "AA"
+        },
+        {
+            "number": "65",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "41%",
+            "grade": "B"
+        },
+        {
+            "number": "66",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "41%",
+            "grade": "B"
+        },
+        {
+            "number": "67",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "43%",
+            "fat": "38%",
+            "grade": "C"
+        },
+        {
+            "number": "68",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "43%",
+            "fat": "38%",
+            "grade": "C"
+        },
+        {
+            "number": "69",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "41%",
+            "fat": "40%",
+            "grade": "C"
+        },
+        {
+            "number": "70",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "41%",
+            "fat": "40%",
+            "grade": "C"
+        },
+        {
+            "number": "71",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "47%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "72",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "47%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "73",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "55%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "74",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "55%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "75",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "56%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "76",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "56%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "77",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "78",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "79",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "50%",
+            "fat": "45%",
+            "grade": "A"
+        },
+        {
+            "number": "80",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "50%",
+            "fat": "45%",
+            "grade": "A"
+        },
+        {
+            "number": "81",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "44%",
+            "grade": "A"
+        },
+        {
+            "number": "82",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "51%",
+            "fat": "44%",
+            "grade": "A"
+        },
+        {
+            "number": "83",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "52%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "84",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "52%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "85",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "86",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "87",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "88",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "89",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "90",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "91",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "48%",
+            "grade": "AA"
+        },
+        {
+            "number": "92",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "62%",
+            "fat": "48%",
+            "grade": "AA"
+        },
+        {
+            "number": "93",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "AA"
+        },
+        {
+            "number": "94",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "AA"
+        },
+        {
+            "number": "95",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "96",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "97",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "98",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "99",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "100",
+            "farmname": "สส.ขุนยโสธร",
+            "lot": "01-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        }
+    ],
+    "Farm2-Boartaint": [
+        {
+            "number": "1",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal",
+            "video": "\\root\\video\\farm2\\f2boatain1.avi",
+            "image": "\\root\\image\\farm2\\f2boatain1-4125.jpg",
+            "imagetime": "4125"
+        },
+        {
+            "number": "2",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal",
+            "video": "\\root\\video\\farm2\\f2boatain2.avi",
+            "image": "\\root\\image\\farm2\\f2boatain2-5512.jpg",
+            "imagetime": "5512"
+        },
+        {
+            "number": "3",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "4",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "5",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "6",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "7",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "8",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "9",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "10",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "11",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "12",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "13",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "14",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "15",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "16",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "17",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "18",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "19",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "20",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "21",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "22",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "23",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "24",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "25",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "26",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "27",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "28",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "29",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "30",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "31",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "32",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "33",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "34",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "35",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "36",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "37",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "38",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "39",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "40",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "41",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "42",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "43",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "44",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "45",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "46",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "47",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "48",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "49",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "50",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "51",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "52",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "53",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "54",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "55",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "56",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "57",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "58",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "59",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        },
+        {
+            "number": "60",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "gender": "male",
+            "boartaint": "normal"
+        }
+    ],
+    "Farm2-ProkCarCass": [
+        {
+            "number": "1",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "11",
+            "bf4": "30",
+            "b": "85",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "28",
+            "grade": "B",
+            "video1": "\\root\\video\\farm2\\f2porkup1.avi",
+            "video2": "\\root\\video\\farm2\\f2porkdown1.avi",
+            "image1": "\\root\\image\\farm2\\f2porkup1-3335.jpg",
+            "image2": "\\root\\image\\farm2\\f2porkdown1-3010.jpg",
+            "imagetime1": "3335",
+            "imagetime2": "3010"
+        },
+        {
+            "number": "2",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "12",
+            "bf4": "29",
+            "b": "87",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C",
+            "video1": "\\root\\video\\farm2\\f2porkup2.avi",
+            "video2": "\\root\\video\\farm2\\f2porkdown2.avi",
+            "image1": "\\root\\image\\farm2\\f2prokup2-6512.jpg",
+            "image2": "\\root\\image\\farm2\\f2prokdown2-5999.jpg",
+            "imagetime1": "6512",
+            "imagetime2": "5999"
+        },
+        {
+            "number": "3",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "6",
+            "bf4": "26",
+            "b": "80",
+            "lqs": "0.20",
+            "lqsgrade": "A",
+            "b2": "32",
+            "grade": "C"
+        },
+        {
+            "number": "4",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "25",
+            "b": "78",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "23",
+            "grade": "A"
+        },
+        {
+            "number": "5",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "8",
+            "bf4": "25",
+            "b": "80",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "6",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "12",
+            "bf4": "25",
+            "b": "80",
+            "lqs": "0.23",
+            "lqsgrade": "B",
+            "b2": "28",
+            "grade": "C"
+        },
+        {
+            "number": "7",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "34",
+            "b": "85",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "26",
+            "grade": "B"
+        },
+        {
+            "number": "8",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "9",
+            "bf4": "24",
+            "b": "81",
+            "lqs": "0.20",
+            "lqsgrade": "B",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "9",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "17",
+            "bf4": "33",
+            "b": "100",
+            "lqs": "0.25",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "10",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "14",
+            "bf4": "25",
+            "b": "75",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "11",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "11",
+            "bf4": "30",
+            "b": "84",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "12",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "14",
+            "bf4": "33",
+            "b": "85",
+            "lqs": "0.28",
+            "lqsgrade": "C",
+            "b2": "22",
+            "grade": "A"
+        },
+        {
+            "number": "13",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "3",
+            "bf4": "18",
+            "b": "90",
+            "lqs": "0.12",
+            "lqsgrade": "A",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "14",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "8",
+            "bf4": "17",
+            "b": "80",
+            "lqs": "0.16",
+            "lqsgrade": "A",
+            "b2": "23",
+            "grade": "A"
+        },
+        {
+            "number": "15",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "8",
+            "bf4": "25",
+            "b": "72",
+            "lqs": "0.23",
+            "lqsgrade": "B",
+            "b2": "22",
+            "grade": "A"
+        },
+        {
+            "number": "16",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "18",
+            "bf4": "25",
+            "b": "87",
+            "lqs": "0.25",
+            "lqsgrade": "B",
+            "b2": "27",
+            "grade": "B"
+        },
+        {
+            "number": "17",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "21",
+            "bf4": "39",
+            "b": "95",
+            "lqs": "0.32",
+            "lqsgrade": "C",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "18",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "18",
+            "bf4": "34",
+            "b": "85",
+            "lqs": "0.31",
+            "lqsgrade": "C",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "19",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "7",
+            "bf4": "24",
+            "b": "90",
+            "lqs": "0.17",
+            "lqsgrade": "A",
+            "b2": "33",
+            "grade": "C"
+        },
+        {
+            "number": "20",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "34",
+            "b": "80",
+            "lqs": "0.31",
+            "lqsgrade": "C",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "21",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "5",
+            "bf4": "19",
+            "b": "78",
+            "lqs": "0.15",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "B"
+        },
+        {
+            "number": "22",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "7",
+            "bf4": "18",
+            "b": "70",
+            "lqs": "0.18",
+            "lqsgrade": "A",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "23",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "5",
+            "bf4": "17",
+            "b": "86",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "23",
+            "grade": "A"
+        },
+        {
+            "number": "24",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "5",
+            "bf4": "15",
+            "b": "87",
+            "lqs": "0.11",
+            "lqsgrade": "A",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "25",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "9",
+            "bf4": "23",
+            "b": "89",
+            "lqs": "0.18",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "26",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "30",
+            "b": "85",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "27",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "23",
+            "b": "83",
+            "lqs": "0.20",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "28",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "85",
+            "lqs": "0.26",
+            "lqsgrade": "C",
+            "b2": "33",
+            "grade": "C"
+        },
+        {
+            "number": "29",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "13",
+            "bf4": "19",
+            "b": "78",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "30",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "29",
+            "b": "90",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "31",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "13",
+            "bf4": "28",
+            "b": "80",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "32",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "9",
+            "bf4": "23",
+            "b": "78",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "27",
+            "grade": "B"
+        },
+        {
+            "number": "33",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "1",
+            "bf4": "10",
+            "b": "78",
+            "lqs": "0.07",
+            "lqsgrade": "A",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "34",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "5",
+            "bf4": "25",
+            "b": "72",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "35",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "75",
+            "lqs": "0.30",
+            "lqsgrade": "C",
+            "b2": "15",
+            "grade": "AA"
+        },
+        {
+            "number": "36",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "3",
+            "bf4": "15",
+            "b": "72",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "37",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "75",
+            "lqs": "0.30",
+            "lqsgrade": "C",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "38",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "3",
+            "bf4": "15",
+            "b": "72",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "39",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "25",
+            "b": "78",
+            "lqs": "0.22",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "40",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "32",
+            "b": "87",
+            "lqs": "0.27",
+            "lqsgrade": "C",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "41",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "27",
+            "b": "78",
+            "lqs": "0.27",
+            "lqsgrade": "C",
+            "b2": "26",
+            "grade": "B"
+        },
+        {
+            "number": "42",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "23",
+            "b": "75",
+            "lqs": "0.22",
+            "lqsgrade": "B",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "43",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "8",
+            "bf4": "21",
+            "b": "89",
+            "lqs": "0.16",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "44",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "9",
+            "bf4": "22",
+            "b": "90",
+            "lqs": "0.17",
+            "lqsgrade": "A",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "45",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "23",
+            "b": "90",
+            "lqs": "0.18",
+            "lqsgrade": "A",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "46",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "3",
+            "bf4": "18",
+            "b": "80",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "47",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "5",
+            "bf4": "10",
+            "b": "75",
+            "lqs": "0.10",
+            "lqsgrade": "A",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "48",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "12",
+            "bf4": "30",
+            "b": "80",
+            "lqs": "0.26",
+            "lqsgrade": "C",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "49",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "13",
+            "bf4": "25",
+            "b": "80",
+            "lqs": "0.24",
+            "lqsgrade": "B",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "50",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "20",
+            "b": "81",
+            "lqs": "0.19",
+            "lqsgrade": "A",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "51",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "13",
+            "bf4": "28",
+            "b": "80",
+            "lqs": "0.26",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "52",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "9",
+            "bf4": "23",
+            "b": "78",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "27",
+            "grade": "B"
+        },
+        {
+            "number": "53",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "1",
+            "bf4": "10",
+            "b": "78",
+            "lqs": "0.07",
+            "lqsgrade": "A",
+            "b2": "28",
+            "grade": "B"
+        },
+        {
+            "number": "54",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "5",
+            "bf4": "25",
+            "b": "72",
+            "lqs": "0.21",
+            "lqsgrade": "B",
+            "b2": "29",
+            "grade": "C"
+        },
+        {
+            "number": "55",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "75",
+            "lqs": "0.30",
+            "lqsgrade": "C",
+            "b2": "15",
+            "grade": "AA"
+        },
+        {
+            "number": "56",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "3",
+            "bf4": "15",
+            "b": "72",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "30",
+            "grade": "C"
+        },
+        {
+            "number": "57",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "30",
+            "b": "75",
+            "lqs": "0.30",
+            "lqsgrade": "C",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "58",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "3",
+            "bf4": "15",
+            "b": "72",
+            "lqs": "0.13",
+            "lqsgrade": "A",
+            "b2": "25",
+            "grade": "A"
+        },
+        {
+            "number": "59",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "10",
+            "bf4": "25",
+            "b": "78",
+            "lqs": "0.22",
+            "lqsgrade": "B",
+            "b2": "20",
+            "grade": "AA"
+        },
+        {
+            "number": "60",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "bf3": "15",
+            "bf4": "32",
+            "b": "87",
+            "lqs": "0.27",
+            "lqsgrade": "C",
+            "b2": "28",
+            "grade": "B"
+        }
+    ],
+    "Farm2-BellyCarCass": [
+        {
+            "number": "1",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A",
+            "video": "\\root\\video\\farm2\\f2belly1.avi",
+            "image": "\\root\\image\\farm2\\f2belly1-3500.jpg",
+            "imagetime": "3500"
+        },
+        {
+            "number": "2",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A",
+            "video": "\\root\\video\\farm2\\f2belly2.avi",
+            "image": "\\root\\image\\farm2\\f2belly2-7502.jpg",
+            "imagetime": "7502"
+        },
+        {
+            "number": "3",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "4",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "5",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "6",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "7",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "8",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "9",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "10",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "11",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "12",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "13",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "14",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "15",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "16",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "17",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "18",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "19",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "20",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "38%",
+            "grade": "AA"
+        },
+        {
+            "number": "21",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "22",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "23",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "24",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "25",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "43%",
+            "fat": "50%",
+            "grade": "B"
+        },
+        {
+            "number": "26",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "43%",
+            "fat": "50%",
+            "grade": "B"
+        },
+        {
+            "number": "27",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "41%",
+            "fat": "49%",
+            "grade": "C"
+        },
+        {
+            "number": "28",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "41%",
+            "fat": "49%",
+            "grade": "C"
+        },
+        {
+            "number": "29",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "47%",
+            "fat": "48%",
+            "grade": "B"
+        },
+        {
+            "number": "30",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "47%",
+            "fat": "48%",
+            "grade": "B"
+        },
+        {
+            "number": "31",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "55%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "32",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "55%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "33",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "56%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "34",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "56%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "35",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "36",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "37",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "50%",
+            "fat": "38%",
+            "grade": "A"
+        },
+        {
+            "number": "38",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "50%",
+            "fat": "38%",
+            "grade": "A"
+        },
+        {
+            "number": "39",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "40",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "40%",
+            "grade": "A"
+        },
+        {
+            "number": "41",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "52%",
+            "fat": "51%",
+            "grade": "A"
+        },
+        {
+            "number": "42",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "52%",
+            "fat": "51%",
+            "grade": "A"
+        },
+        {
+            "number": "43",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "44",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "45",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "46",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "47",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "48",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "49",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "45%",
+            "grade": "AA"
+        },
+        {
+            "number": "50",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "45%",
+            "grade": "AA"
+        },
+        {
+            "number": "51",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "52",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "44%",
+            "grade": "AA"
+        },
+        {
+            "number": "53",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "49%",
+            "grade": "B"
+        },
+        {
+            "number": "54",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "49%",
+            "grade": "B"
+        },
+        {
+            "number": "55",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "56",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "57",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "58",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "59",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "60",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "61",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "46%",
+            "grade": "AA"
+        },
+        {
+            "number": "62",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "46%",
+            "grade": "AA"
+        },
+        {
+            "number": "63",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "41%",
+            "grade": "AA"
+        },
+        {
+            "number": "64",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "41%",
+            "grade": "AA"
+        },
+        {
+            "number": "65",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "41%",
+            "grade": "B"
+        },
+        {
+            "number": "66",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "41%",
+            "grade": "B"
+        },
+        {
+            "number": "67",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "43%",
+            "fat": "38%",
+            "grade": "C"
+        },
+        {
+            "number": "68",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "43%",
+            "fat": "38%",
+            "grade": "C"
+        },
+        {
+            "number": "69",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "41%",
+            "fat": "40%",
+            "grade": "C"
+        },
+        {
+            "number": "70",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "41%",
+            "fat": "40%",
+            "grade": "C"
+        },
+        {
+            "number": "71",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "47%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "72",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "47%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "73",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "55%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "74",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "55%",
+            "fat": "57%",
+            "grade": "A"
+        },
+        {
+            "number": "75",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "56%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "76",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "56%",
+            "fat": "59%",
+            "grade": "A"
+        },
+        {
+            "number": "77",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "78",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "53%",
+            "grade": "A"
+        },
+        {
+            "number": "79",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "50%",
+            "fat": "45%",
+            "grade": "A"
+        },
+        {
+            "number": "80",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "50%",
+            "fat": "45%",
+            "grade": "A"
+        },
+        {
+            "number": "81",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "44%",
+            "grade": "A"
+        },
+        {
+            "number": "82",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "44%",
+            "grade": "A"
+        },
+        {
+            "number": "83",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "52%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "84",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "52%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "85",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "86",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "87",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "88",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "89",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "90",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "91",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "48%",
+            "grade": "AA"
+        },
+        {
+            "number": "92",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "48%",
+            "grade": "AA"
+        },
+        {
+            "number": "93",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "AA"
+        },
+        {
+            "number": "94",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "AA"
+        },
+        {
+            "number": "95",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "96",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "97",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "98",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "99",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "100",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "101",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "44%",
+            "grade": "A"
+        },
+        {
+            "number": "102",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "51%",
+            "fat": "44%",
+            "grade": "A"
+        },
+        {
+            "number": "103",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "52%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "104",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "52%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "105",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "106",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "50%",
+            "grade": "A"
+        },
+        {
+            "number": "107",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "108",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "49%",
+            "grade": "A"
+        },
+        {
+            "number": "109",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "110",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "48%",
+            "grade": "A"
+        },
+        {
+            "number": "111",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "48%",
+            "grade": "AA"
+        },
+        {
+            "number": "112",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "62%",
+            "fat": "48%",
+            "grade": "AA"
+        },
+        {
+            "number": "113",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "AA"
+        },
+        {
+            "number": "114",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "60%",
+            "fat": "40%",
+            "grade": "AA"
+        },
+        {
+            "number": "115",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "116",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "49%",
+            "fat": "51%",
+            "grade": "B"
+        },
+        {
+            "number": "117",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "118",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "54%",
+            "fat": "46%",
+            "grade": "A"
+        },
+        {
+            "number": "119",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        },
+        {
+            "number": "120",
+            "farmname": "สส.ขุนมุกดาหาร",
+            "lot": "02-12062022",
+            "redpork": "59%",
+            "fat": "41%",
+            "grade": "A"
+        }
+    ]
+}
